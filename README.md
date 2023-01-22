@@ -21,6 +21,7 @@ However, I would like to work on comparison between different tree-based ensembl
 Therefore, this project wants to contribute to the research in the area of bike sharing demand to handle oversupply and shortages of bikes by answering the following research question:
 
 How do tree-based ensemble models compare when predicting bike sharing demand?
+
 To answer this question I used three different algorithms:
 
 - AdaBoost
