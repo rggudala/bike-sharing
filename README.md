@@ -4,7 +4,7 @@ This project uses AdaBoost, Random Forests and XGBoost to predict bike sharing d
 
 # Project Motivation and Description
 
-![image](https://user-images.githubusercontent.com/108236580/213938971-0a985ddf-5d2f-4a3c-a363-bbaa59df594c.png)
+![](https://github.com/rggudala/bike-sharing/blob/main/bike-sharing.png)
 
 
 
