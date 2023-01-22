@@ -10,7 +10,7 @@ This project uses AdaBoost, Random Forests and XGBoost to predict bike sharing d
 
 Climate change is forcing cities to reconsider their transportation infrastructure. Bike sharing is a more sustainable mode of transportation that reduces greenhouse gas emissions and other air pollutants. For bike sharing companies it is important to ensure that enough bikes are available at stations but not too many so that stations are not crowded with unnecessary bikes. Avoiding oversupply and shortages of bikes leads to happier customers and thus, knowing future demand becomes essential. There is already a broad body of literature that uses different features, algorithms, forecasting horizons and location-levels to predict demand in bike sharing systems.
 
-However, there currently does not exist a comparison between different tree-based ensemble methods. These models have a number of advantages:
+However, I would like to work on comparison between different tree-based ensemble methods. These models have a number of advantages:
 
 - ease of understanding and visualization of the algorithm
 - yield better results than underlying weak learners
