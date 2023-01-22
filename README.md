@@ -4,6 +4,10 @@ This project uses AdaBoost, Random Forests and XGBoost to predict bike sharing d
 
 # Project Motivation and Description
 
+![image](https://user-images.githubusercontent.com/108236580/213938971-0a985ddf-5d2f-4a3c-a363-bbaa59df594c.png)
+
+
+
 Climate change is forcing cities to reconsider their transportation infrastructure. Bike sharing is a more sustainable mode of transportation that reduces greenhouse gas emissions and other air pollutants. For bike sharing companies it is important to ensure that enough bikes are available at stations but not too many so that stations are not crowded with unnecessary bikes. Avoiding oversupply and shortages of bikes leads to happier customers and thus, knowing future demand becomes essential. There is already a broad body of literature that uses different features, algorithms, forecasting horizons and location-levels to predict demand in bike sharing systems.
 
 However, there currently does not exist a comparison between different tree-based ensemble methods. These models have a number of advantages:
@@ -57,3 +61,5 @@ The data used for the analysis comes from:
 - Capital Bike Share: this includes the bike demand data for the metro DC area
 - NOAA's National Climatic Data Center: this includes the weather data for the metro DC area
 - DC Department of Human Resources: this includes the holiday data for Washington, D.C.
+
+https://en.wikipedia.org/wiki/Bicycle-sharing_system
